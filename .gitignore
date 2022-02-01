@@ -1,0 +1,10 @@
+# cache directory
+__pycache__
+.idea
+
+# virtual enveroinment
+venv
+
+# data files
+*txt
+*docx
